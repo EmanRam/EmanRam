@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Hi, I'm Eman:
-👩🏻‍💻 I'm currently working on AI and machine learning projects.<br>👩🏻‍🎓 Studied Computer Science at Mansoura University.<br>💭 Currently learning advanced deep learning techniques, studying large language models (LLMs), and improving my skills in deploying AI systems
+👩🏻‍💻 I'm currently working on AI and machine learning projects.<br>👩🏻‍🎓 Studied Computer Science at Mansoura University.<br>💭 Currently learning advanced deep learning techniques, studying large language models (LLMs), and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
