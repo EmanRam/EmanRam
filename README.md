@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EmanRam/EmanRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 💫 Hi, I'm Eman:
 I'm currently working on AI and machine learning projects.<br>I'm looking to collaborate on innovative AI projects that solve real-world problems and create meaningful impact, especially in healthcare or business applications.<br>I'm currently learning advanced deep learning techniques, studying large language models (LLMs), and improving my skills in deploying AI systems
 
 
