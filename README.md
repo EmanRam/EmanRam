@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Hi, I'm Eman:
-I'm currently working on AI and machine learning projects.<br>I'm looking to collaborate on innovative AI projects that solve real-world problems and create meaningful impact, especially in healthcare or business applications.<br>I'm currently learning advanced deep learning techniques, studying large language models (LLMs), and improving my skills in deploying AI systems
+👩🏻‍💻 I'm currently working on AI and machine learning projects.<br>👩🏻‍🎓 Studied Computer Science at Mansoura University.<br>💭 Currently learning advanced deep learning techniques, studying large language models (LLMs), and improving my skills in deploying AI systems
 
 
 ## 🌐 Socials:
@@ -28,5 +28,3 @@ I'm currently working on AI and machine learning projects.<br>I'm looking to col
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EmanRam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
